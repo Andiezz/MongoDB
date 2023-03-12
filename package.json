@@ -9,7 +9,15 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
+  "author": "Andiez",
   "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Andiezz/MongoDB.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Andiezz/MongoDB/issues"
+  },
+  "homepage": "https://github.com/Andiezz/MongoDB#readme",
   "description": ""
 }
